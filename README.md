@@ -1,4 +1,5 @@
 # Indian Legal Document Summarizer
+![image](https://github.com/user-attachments/assets/545bd0c6-bcec-4d2a-99a0-22666219eba2)
 
 ## Overview
 The **Indian Legal Document Summarizer** is a web-based application built using Streamlit that extracts and summarizes legal documents in PDF format. The tool leverages the **Facebook BART Large CNN** model from Hugging Face for text summarization, ensuring concise and meaningful summaries of lengthy legal texts.
